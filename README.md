@@ -1,4 +1,4 @@
-# Rasanusa - Indonesian Food Ordering Website
+# [ON GOING PROJECT] Rasanusa - Indonesian Food Ordering Website
 
 **Rasanusa** is a Laravel-based web application for ordering authentic Indonesian cuisine. It allows users to browse a variety of traditional dishes from across Indonesia, add them to a cart, place orders, and manage their purchase history — all from an intuitive and responsive interface.
 
