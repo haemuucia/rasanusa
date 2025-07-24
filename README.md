@@ -25,7 +25,7 @@
 
 ---
 
-## Screenshots (Optional)
+## Screenshots
 
 [COMING SOON]
 
