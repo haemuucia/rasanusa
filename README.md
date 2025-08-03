@@ -25,12 +25,6 @@ Did you know that many local Indonesian dishes are still difficult to discover a
 
 ---
 
-## Screenshots
-
-[COMING SOON]
-
----
-
 ## Installation
 
 ```bash
