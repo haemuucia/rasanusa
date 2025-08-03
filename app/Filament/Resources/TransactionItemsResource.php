@@ -27,10 +27,10 @@ class TransactionItemsResource extends Resource
     }
 
     public static string $parentResource = TransactionResource::class;
-    //public static function getRecordTitle(?Model $record): string|null|Htmlable
-    //{
-    //    return $record->title;
-    //}
+    public static function getRecordTitle(?Model $record): string|null|Htmlable
+    {
+        return $record->title;
+    }
 
     public static function canEdit(Model $record): bool {
         return false;
